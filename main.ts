@@ -9,7 +9,7 @@ let option: number = 0;
 while (option !== 9) {
     console.log(`==============Menu===============`);
     console.log('1. digite as notas                ');
-    console.log('9. Sair               👉         ');
+    console.log('2. Sair               👉         ');
     console.log('=================================');
 
     option = +teclado('Ecolha uma ação : ');
